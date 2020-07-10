@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+Welcome to my GitHub Profile!
+
+I'm Soham Zemse, a passionate blockchain developer from [🇮🇳](https://en.wikipedia.org/wiki/India).
+
+🔭 I’m currently working on:
+- [Era Swap Network](https://github.com/KMPARDS/esn-contracts) A deposit based plasma implementation
+
+👯 My recent contributions to OSS:
+- [TypeChain Ethers v5 Target](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings
+
+📫 How to reach me:
+- Chat on [Gitter.im](https://gitter.im/zemse)
+- Chat on [Telegram](https://t.me/zemse)
+- Connect on [LinkedIn](https://www.linkedin.com/in/zemse/)
+- Tweet to me on [Twitter](https://twitter.com/zemse5)
+
 <!--
 **zemse/zemse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
