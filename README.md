@@ -5,7 +5,7 @@ Welcome to my GitHub Profile!
 I'm Soham Zemse, a passionate blockchain developer from [🇮🇳](https://en.wikipedia.org/wiki/India).
 
 🌱 My recent contributions to OSS:
-- [TypeChain Ethers v5 Target](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings
+- [TypeChain Ethers v5 Target](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings for Ethereum Smart Contracts
 
 📫 How to reach me:
 - Chat on [Gitter.im](https://gitter.im/zemse)
