@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile!
 
-I'm Soham Zemse, a passionate blockchain developer from [🇮🇳](https://en.wikipedia.org/wiki/India).
+I'm Soham Zemse, a passionate blockchain developer from [🇮🇳](https://en.wikipedia.org/wiki/India). Most of my research effort is focused on improving ÐApp experience. Currently working on a Deposit-based Plasma implementation.
 
 🌱 My recent contributions to OSS:
 - [TypeChain Ethers v5 Target](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings for Ethereum Smart Contracts
