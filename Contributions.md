@@ -11,7 +11,7 @@ This page is a showcase of some of my bug-reports / contributions here on GitHub
 <br>I saw an [open issue](https://github.com/thehubbleproject/contracts/issues/35) and I wanted to see if my actions script works in a truffle project.
 
 - **Added a package that generates ethers v5 typescript typings for smart contract projects** ([ethereum-ts/TypeChain#250](https://github.com/ethereum-ts/TypeChain/pull/250))
-<br>I wanted to write tests for smart contracts on which I was working then, in Typescript. The time I invested in the PR ended up giving a great ROI to me (of saving development time) in various projects I did post that. Also this ethers v5, is used by many great solidity developers in their new projects. This was kindof my first big PR.
+<br>I wanted to write tests for smart contracts on which I was working then, in Typescript. The time I invested in the PR ended up giving a great ROI to me (of saving development time) in various projects I did post that. Also this ethers v5 target from the PR, is used by many great solidity developers from the ethereum ecosystem in their new projects. This was kindof my first big PR.
 
 - **Bug fix in ethers v5 target that I contributed previously** ([ethereum-ts/TypeChain#253](https://github.com/ethereum-ts/TypeChain/pull/253))
 <br>This is related to name spelling [issue](https://github.com/ethers-io/ethers.js/issues/924) that I noticed while working on my project.
