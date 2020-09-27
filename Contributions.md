@@ -25,6 +25,9 @@ This page is a showcase of some of my bug-reports / contributions here on GitHub
 - **Kindof an enhancement (or maybe bug fix) in ethers v5 target** ([ethereum-ts/TypeChain#274](https://github.com/ethereum-ts/TypeChain/pull/274))
 <br>Again, while using package, encountered a case where the typescript typings weren't the best. So I had to do this.
 
+- **See [all PRs](https://github.com/pulls?q=is%3Apr+author%3Azemse+archived%3Afalse+)**.
+<br>This includes public PRs that I create at work.
+
 ## Issues
 
 - Breaking changes in ABI of Solc 0.6 in ethers v4 ([ethereum/solidity#8065](https://github.com/ethereum/solidity/issues/8065), [ethers-io/ethers.js#688](https://github.com/ethers-io/ethers.js/issues/688))
