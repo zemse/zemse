@@ -48,6 +48,10 @@ This page is a showcase of some of my bug-reports / contributions here on GitHub
 
 - Change in error messages in ethers v4 release ([ethers-io/ethers.js#1047](https://github.com/ethers-io/ethers.js/issues/1047))
 
+## Public discussions
+
+- https://github.com/ethereum-ts/TypeChain/issues/298#issuecomment-723280952
+
 ## What motivates me to contribute to Open Source?
 
 I could call myself a self taught programmer, but I learned everything from content on internet
