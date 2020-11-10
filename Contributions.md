@@ -52,6 +52,8 @@ This page is a showcase of some of my bug-reports / contributions here on GitHub
 
 - https://github.com/ethereum-ts/TypeChain/issues/298#issuecomment-723280952
 
+- https://github.com/ethereum-ts/TypeChain/pull/300#issuecomment-723719838
+
 ## What motivates me to contribute to Open Source?
 
 I could call myself a self taught programmer, but I learned everything from content on internet
