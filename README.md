@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile!
 
-I'm Soham Zemse, a passionate blockchain developer from [🇮🇳](https://en.wikipedia.org/wiki/India). Most of my research effort is focused on improving ÐApp experience. Currently researching on scaling DeFi with Rollups while doing my M.Tech in Crypto at [ISI Kolkata](https://www.isical.ac.in). Earlier worked on Plasma sidechain at Era Swap.
+I'm Soham Zemse, a passionate blockchain developer from [🇮🇳](https://en.wikipedia.org/wiki/India). Most of my research effort is focused on improving ÐApp experience. Currently researching on DeFi + scaling with Rollups while doing my M.Tech in Crypto at [ISI Kolkata](https://www.isical.ac.in). Earlier worked on Plasma sidechain at Era Swap.
 
 🌱 My recent contributions to OSS:
 - [TypeChain: Ethers v5 Target](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings for Ethereum Smart Contracts.
