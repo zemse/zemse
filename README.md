@@ -7,6 +7,7 @@ I'm Soham Zemse, a passionate blockchain developer from [🇮🇳](https://en.wi
 🌱 My recent contributions to OSS:
 - [TypeChain: Ethers v5 Target](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings for Ethereum Smart Contracts.
 - [OpenZeppelin: Solc v0.7 patch](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/2327) Patch for stricter state mutability introduced in [newer version](https://github.com/ethereum/solidity/releases/tag/v0.7.0) of Solidity.
+- [Primitive Finance Subgraph](https://github.com/primitivefinance/primitive-subgraph/tree/z/update-subgraph) Indexing for Primitive Finance V1 using The Graph Protocol ([view on explorer](https://thegraph.com/explorer/subgraph/zemse/primitive-finance?version=current)).
 - See more [contributions](https://github.com/zemse/zemse/blob/master/Contributions.md#prs).
 
 📫 How to reach me:
