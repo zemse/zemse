@@ -31,6 +31,11 @@ This page is a showcase of some of my bug-reports / contributions here on GitHub
 - **See [all PRs](https://github.com/pulls?q=is%3Apr+author%3Azemse+archived%3Afalse+)**.
 <br>This includes public PRs that I create at work.
 
+## Feature Requests
+
+- [[ethereum/solidity#11407](https://github.com/ethereum/solidity/issues/11407)] Allow specifying parameter name in public mappings
+
+
 ## Issues
 
 - Breaking changes in ABI of Solc 0.6 in ethers v4 ([ethereum/solidity#8065](https://github.com/ethereum/solidity/issues/8065), [ethers-io/ethers.js#688](https://github.com/ethers-io/ethers.js/issues/688))
