@@ -34,6 +34,7 @@ This page is a showcase of some of my bug-reports / contributions here on GitHub
 ## Feature Requests
 
 - [[ethereum/solidity#11407](https://github.com/ethereum/solidity/issues/11407)] Allow specifying parameter name in public mappings
+- [[ethereum/solidity#11691](https://github.com/ethereum/solidity/issues/11691)] Combine nested structs in single storage slot
 
 
 ## Issues
