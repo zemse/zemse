@@ -65,10 +65,10 @@ This page is a showcase of some of my bug-reports / contributions here on GitHub
 
 ## What motivates me to contribute to Open Source?
 
-I could call myself a self taught programmer, but I learned everything from content on internet
+1. I could call myself a self taught programmer, but I learned everything from content on internet
 which was made available by people for free. How can I thank them for their effort? Someone someday
 contributed to OSS, which made it easier for me to start into building things quicker or better. 
+2. Contributors make things that were difficult yesterday, easier today. As we move forward in time, tech is 
+going to get cooler and better. Things difficult to do today, could be easier tomorrow.
 
-Contributors make things that were difficult yesterday, easier today. As we move forward in time, tech is 
-going to get cooler and better. Things difficult to do today, could be easier tomorrow. That's why
-I like contributing to Open source, to keep this chain continued!
+That's why I like contributing to Open source, to keep this chain continued!
