@@ -2,6 +2,32 @@
 
 This page is a showcase of some of my bug-reports / contributions here on GitHub. This might also help you to get a better understanding of my work along with communication in community.
 
+## Feature Requests
+
+- [[ethereum/solidity#11407](https://github.com/ethereum/solidity/issues/11407)] Allow specifying parameter name in public mappings
+- [[ethereum/solidity#11691](https://github.com/ethereum/solidity/issues/11691)] Combine nested structs in single storage slot
+
+
+## Issues/Bug Reports
+
+- Breaking changes in ABI of Solc 0.6 in ethers v4 ([ethereum/solidity#8065](https://github.com/ethereum/solidity/issues/8065), [ethers-io/ethers.js#688](https://github.com/ethers-io/ethers.js/issues/688))
+
+- Provider getBlock bug in ethers v5 beta ([ethers-io/ethers.js#711](https://github.com/ethers-io/ethers.js/issues/711))
+
+- Network promise bug in ethers v5 beta ([ethers-io/ethers.js#854](https://github.com/ethers-io/ethers.js/issues/854))
+
+- Invalid Indentation in prettier solidity ([prettier-solidity/prettier-plugin-solidity#285](https://github.com/prettier-solidity/prettier-plugin-solidity/issues/285))
+
+- Overrides check bug in ethers v5 beta ([ethers-io/ethers.js#862](https://github.com/ethers-io/ethers.js/issues/862))
+
+- Node offline bug in ethers v5 release ([ethers-io/ethers.js#882](https://github.com/ethers-io/ethers.js/issues/882))
+
+- Extra calls by provider in ethers v5 release ([ethers-io/ethers.js#901](https://github.com/ethers-io/ethers.js/issues/901))
+
+- A basic bug in ABI coder errors in ethers v5 release ([ethers-io/ethers.js#1004](https://github.com/ethers-io/ethers.js/issues/1004))
+
+- Change in error messages in ethers v4 release ([ethers-io/ethers.js#1047](https://github.com/ethers-io/ethers.js/issues/1047))
+
 ## PRs
 
 - **Updated documentation for a vscode plugin** ([prettier-solidity/prettier-plugin-solidity#290](https://github.com/prettier-solidity/prettier-plugin-solidity/pull/290))
@@ -30,32 +56,6 @@ This page is a showcase of some of my bug-reports / contributions here on GitHub
 
 - **See [all PRs](https://github.com/pulls?q=is%3Apr+author%3Azemse+archived%3Afalse+)**.
 <br>This includes public PRs that I create at work.
-
-## Feature Requests
-
-- [[ethereum/solidity#11407](https://github.com/ethereum/solidity/issues/11407)] Allow specifying parameter name in public mappings
-- [[ethereum/solidity#11691](https://github.com/ethereum/solidity/issues/11691)] Combine nested structs in single storage slot
-
-
-## Issues
-
-- Breaking changes in ABI of Solc 0.6 in ethers v4 ([ethereum/solidity#8065](https://github.com/ethereum/solidity/issues/8065), [ethers-io/ethers.js#688](https://github.com/ethers-io/ethers.js/issues/688))
-
-- Provider getBlock bug in ethers v5 beta ([ethers-io/ethers.js#711](https://github.com/ethers-io/ethers.js/issues/711))
-
-- Network promise bug in ethers v5 beta ([ethers-io/ethers.js#854](https://github.com/ethers-io/ethers.js/issues/854))
-
-- Invalid Indentation in prettier solidity ([prettier-solidity/prettier-plugin-solidity#285](https://github.com/prettier-solidity/prettier-plugin-solidity/issues/285))
-
-- Overrides check bug in ethers v5 beta ([ethers-io/ethers.js#862](https://github.com/ethers-io/ethers.js/issues/862))
-
-- Node offline bug in ethers v5 release ([ethers-io/ethers.js#882](https://github.com/ethers-io/ethers.js/issues/882))
-
-- Extra calls by provider in ethers v5 release ([ethers-io/ethers.js#901](https://github.com/ethers-io/ethers.js/issues/901))
-
-- A basic bug in ABI coder errors in ethers v5 release ([ethers-io/ethers.js#1004](https://github.com/ethers-io/ethers.js/issues/1004))
-
-- Change in error messages in ethers v4 release ([ethers-io/ethers.js#1047](https://github.com/ethers-io/ethers.js/issues/1047))
 
 ## Public discussions
 
