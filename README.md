@@ -12,8 +12,8 @@ I'm Soham Zemse, a passionate blockchain engineer from [🇮🇳](https://en.wik
 - See more [contributions](https://github.com/zemse/zemse/blob/master/Contributions.md#prs).
 
 📫 How to reach me:
+- Chat on [Keybase](https://keybase.io/zemse)
 - Chat on [Telegram](https://t.me/zemse)
-- Chat on [Gitter.im](https://gitter.im/zemse)
 - Tweet to me on [Twitter](https://twitter.com/zemse_in)
 - Connect on [LinkedIn](https://www.linkedin.com/in/zemse/)
 
