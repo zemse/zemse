@@ -7,10 +7,10 @@ I'm Soham Zemse, a passionate blockchain engineer from [🇮🇳](https://en.wik
 🌱 My recent contributions to OSS:
 - [TypeChain: Ethers v5 Target](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings for Ethereum Smart Contracts.
 - [OpenZeppelin: Solc v0.7 patch](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/2327) Patch for stricter state mutability introduced in [newer version](https://github.com/ethereum/solidity/releases/tag/v0.7.0) of Solidity.
-- [prettier-solidity: User Defined Value Types](https://github.com/prettier-solidity/prettier-plugin-solidity/pull/607) Added support for a new feature in Solidity Lang to the prettier plugin.
+- [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity/pull/607) Added support for User Defined Value Types (a new Solidity feature) to the prettier plugin.
 - [Primitive Finance Subgraph](https://github.com/primitivefinance/primitive-subgraph/tree/z/update-subgraph) Indexing for Primitive Finance V1 using The Graph Protocol ([view on explorer](https://thegraph.com/explorer/subgraph/zemse/primitive-finance?version=current)).
 - [Hardhat Tracer Plugin](https://github.com/zemse/hardhat-tracer) See emitted events during your hardhat tests in the console.
-- See more [contributions](https://github.com/zemse/zemse/blob/master/Contributions.md#prs).
+- See more [contributions](https://github.com/zemse/zemse/blob/master/Contributions.md#prs) (or if you feel like tipping me some ☕️ pls use zemse.tips.ethers.eth).
 
 📫 How to reach me:
 - Chat on [Keybase](https://keybase.io/zemse)
