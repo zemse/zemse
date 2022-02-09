@@ -17,6 +17,7 @@ I'm Soham Zemse, a passionate blockchain engineer from [🇮🇳](https://en.wik
 - Chat on [Telegram](https://t.me/zemse)
 - Tweet to me on [Twitter](https://twitter.com/0xZemse)
 - Connect on [LinkedIn](https://www.linkedin.com/in/zemse/)
+- Email to soham at zemse.in
 
 <!--
 **zemse/zemse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
