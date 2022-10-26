@@ -12,12 +12,6 @@ I'm Soham Zemse, a passionate blockchain engineer from [🇮🇳](https://en.wik
 - [Hardhat Tracer Plugin](https://github.com/zemse/hardhat-tracer) See emitted events during your hardhat tests in the console.
 - See more [contributions](https://github.com/zemse/zemse/blob/master/Contributions.md#prs) (or if you feel like tipping me some ☕️ pls use zemse.tips.ethers.eth).
 
-🔭 Some writings:
-- [hackmd.io](https://hackmd.io/@zemse)
-- [dev.to](https://dev.to/@zemse)
-- [medium.com](https://medium.com/@zemse)
-- [gists](https://gist.github.com/zemse)
-
 📫 How to reach me:
 - Chat on [Keybase](https://keybase.io/zemse)
 - Chat on [Telegram](https://t.me/zemse)
