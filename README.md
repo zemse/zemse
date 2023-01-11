@@ -4,12 +4,12 @@ Welcome to my GitHub Profile!
 
 I'm Soham Zemse, a passionate blockchain engineer from [🇮🇳](https://en.wikipedia.org/wiki/India). Currently researching on engineering practices in DeFi, improving ÐApp experience, zero knowledge protocols and scaling with rollups while doing my M.Tech in Cryptology at [ISI Kolkata](https://www.isical.ac.in).
 
-🌱 My recent contributions to OSS:
-- [TypeChain: Ethers v5 Target](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings for Ethereum Smart Contracts.
-- [OpenZeppelin: Solc v0.7 patch](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/2327) Patch for stricter state mutability introduced in [newer version](https://github.com/ethereum/solidity/releases/tag/v0.7.0) of Solidity.
+🌱 My recent contributions to opensource projects:
+- [Solidity Language](https://github.com/ethereum/solidity/pull/13384) Named params in mapping declaration.
+- [TypeChain](https://github.com/ethereum-ts/TypeChain/pull/250) Ethers V5 TypeScript bindings for Ethereum Smart Contracts.
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/2327) Patch for stricter state mutability introduced in [newer version](https://github.com/ethereum/solidity/releases/tag/v0.7.0) of Solidity.
+- [Account Abstraction](https://github.com/eth-infinitism/account-abstraction/pull/114) Allowed a overridable function to be non-view.
 - [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity/pull/607) Added support for User Defined Value Types (a new Solidity feature) to the prettier plugin.
-- [Primitive Finance Subgraph](https://github.com/primitivefinance/primitive-subgraph/tree/z/update-subgraph) Indexing for Primitive Finance V1 using The Graph Protocol ([view on explorer](https://thegraph.com/explorer/subgraph/zemse/primitive-finance?version=current)).
-- [Hardhat Tracer Plugin](https://github.com/zemse/hardhat-tracer) See emitted events during your hardhat tests in the console.
 - See more [contributions](https://github.com/zemse/zemse/blob/master/Contributions.md#prs) (or if you feel like tipping me some ☕️ pls use zemse.tips.ethers.eth).
 
 📫 How to reach me:
