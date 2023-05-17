@@ -2,13 +2,16 @@
 
 Welcome to my GitHub Profile!
 
-I'm Soham Zemse a passionate blockchain engineer from [🇮🇳](https://en.wikipedia.org/wiki/India) and currently exploring privacy tech.
+I'm Soham Zemse, a passionate dev from [🇮🇳](https://en.wikipedia.org/wiki/India), usually interested in all things ethereum :)
 
-🌱 My recent contributions to OSS:
+🌱 Few open-source contributions:
+
+- [Account Abstraction](https://github.com/eth-infinitism/account-abstraction/pull/114) Patch state mutability.
+- [Hardhat](https://github.com/NomicFoundation/hardhat/pull/2750) Add deployContract helper
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/2327) Patch warning.
+- [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity/pull/607) Added support for User Defined Value Types.
 - [Solidity](https://github.com/ethereum/solidity/pull/13384) Named params in mapping declaration.
 - [TypeChain](https://github.com/ethereum-ts/TypeChain/pull/250) TypeScript bindings for Ethereum Smart Contracts.
-- [Hardhat](https://github.com/NomicFoundation/hardhat/pull/2750) Add deployContract helper
-- [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity/pull/607) Added support for User Defined Value Types.
 
 📫 How to reach me:
 
